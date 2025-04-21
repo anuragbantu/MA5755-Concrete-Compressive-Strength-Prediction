@@ -97,6 +97,4 @@ npx localtunnel --port 8501            # Optional for external access
 
 ---
 
-## License
 
-This project is released under the MIT License.
